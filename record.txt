@@ -1,0 +1,9 @@
+# vue project 를 생성하기 위해 create
+$ npm install -g @vue/cli
+$ vue create secret-project-front
+
+# vue router 연동
+$ npm install --save vue-router
+routes/index.js 작업 및 main.js 에서 router 연결
+
+
